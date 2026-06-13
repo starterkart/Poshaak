@@ -1,0 +1,6 @@
+{
+  "name": "Pooshak",
+  "description": "Premium fashion ecommerce mobile application for high-quality clothing shopping, inspired by Zara, H&M, and Myntra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
